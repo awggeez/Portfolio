@@ -1,0 +1,7 @@
+{
+            "error": {
+                        "err_type": "input_error",
+                        "err_entity": "operation",
+                        "err_field": "oper_async_point"
+            }
+}

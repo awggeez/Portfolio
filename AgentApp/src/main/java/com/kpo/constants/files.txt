@@ -1,0 +1,11 @@
+{
+"DishFactory": "D:\\KPO\\IDZ1\\src\\main\\java\\com\\kpo\\files\\menu_dishes.txt",
+"CardFactory": "D:\\KPO\\IDZ1\\src\\main\\java\\com\\kpo\\files\\dish_cards.txt",
+"ProductTypeFactory": "D:\\KPO\\IDZ1\\src\\main\\java\\com\\kpo\\files\\product_types.txt",
+"ProductFactory": "D:\\KPO\\IDZ1\\src\\main\\java\\com\\kpo\\files\\products.txt",
+"EquipmentTypeFactory": "D:\\KPO\\IDZ1\\src\\main\\java\\com\\kpo\\files\\equipment_type.txt",
+"EquipmentFactory": "D:\\KPO\\IDZ1\\src\\main\\java\\com\\kpo\\files\\equipment.txt",
+"CookerFactory": "D:\\KPO\\IDZ1\\src\\main\\java\\com\\kpo\\files\\cookers.txt",
+"OperationTypeFactory": "D:\\KPO\\IDZ1\\src\\main\\java\\com\\kpo\\files\\operation_types.txt",
+"VisitorFactory": "D:\\KPO\\IDZ1\\src\\main\\java\\com\\kpo\\files\\visitors_orders.txt"
+}

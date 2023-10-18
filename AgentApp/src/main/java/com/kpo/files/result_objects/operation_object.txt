@@ -1,0 +1,9 @@
+{
+            "oper_id": 82325,
+            "oper_proc": 434,
+            "oper_card": 518,
+            "oper_started": "2023-02-28T10:12:37",
+            "oper_ended": "2023-02-28T10:12:49",
+            "oper_coocker_id": 15,
+            "oper_active": false
+}
